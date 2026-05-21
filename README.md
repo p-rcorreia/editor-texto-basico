@@ -1,8 +1,8 @@
-# Editor de Texto Basico com JavaFX
+# Editor de Texto Básico com JavaFX
 
-Editor de texto desktop para praticar interface grafica, manipulacao de arquivos e operacoes comuns de edicao.
+Editor de texto desktop para praticar interface gráfica, manipulação de arquivos e operações comuns de edição.
 
-## Repositorio
+## Repositório
 
 [editor-texto-basico](https://github.com/p-rcorreia/editor-texto-basico.git)
 
@@ -17,13 +17,13 @@ Criar um editor simples capaz de escrever, abrir e salvar arquivos de texto.
 - FileChooser
 - Leitura e escrita de arquivos
 - Menus e comandos de interface
-- Tratamento de excecoes
+- Tratamento de exceções
 
 ## Funcionalidades planejadas
 
 - Criar novo texto
 - Abrir arquivo
-- Editar conteudo
+- Editar conteúdo
 - Salvar arquivo
 - Salvar como
 - Opcional: contador de caracteres ou palavras
@@ -32,8 +32,8 @@ Criar um editor simples capaz de escrever, abrir e salvar arquivos de texto.
 
 Planejado.
 
-## Evidencias para portfolio
+## Evidências para portfólio
 
 - Screenshot do editor
-- Video abrindo e salvando arquivo
-- Explicacao sobre manipulacao de arquivos em Java
+- Vídeo abrindo e salvando arquivo
+- Explicação sobre manipulação de arquivos em Java
